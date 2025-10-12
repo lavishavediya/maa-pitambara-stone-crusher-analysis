@@ -108,4 +108,11 @@ Total Sales	₹2,61,250
 Total Profit	₹52,875
 Total Orders	30+
 Avg Transport Cost	₹501.83
-https://github.com/lavishavediya/maa-pitambara-stone-crusher-analysis/commit/29a70cf68ee2b80d09edc3b1cb767930aa533c8d
+
+```bash
+git init
+git branch -M main
+git add .
+git commit -m "Initial commit: add SQL, Python EDA, Power BI dashboard & summary report"
+git remote add origin https://github.com/<your-username>/maa-pitambara-stone-crusher-analysis.git
+git push -u origin main
